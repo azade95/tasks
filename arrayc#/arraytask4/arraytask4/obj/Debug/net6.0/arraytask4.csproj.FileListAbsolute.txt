@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\bin\Debug\net6.0\arraytask4.exe
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\bin\Debug\net6.0\arraytask4.deps.json
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\bin\Debug\net6.0\arraytask4.runtimeconfig.json
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\bin\Debug\net6.0\arraytask4.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\bin\Debug\net6.0\arraytask4.pdb
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.AssemblyInfo.cs
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\refint\arraytask4.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.pdb
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\arraytask4.genruntimeconfig.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\arraytask4\arraytask4\obj\Debug\net6.0\ref\arraytask4.dll
