@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\bin\Debug\net6.0\1marchtask.exe
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\bin\Debug\net6.0\1marchtask.deps.json
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\bin\Debug\net6.0\1marchtask.runtimeconfig.json
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\bin\Debug\net6.0\1marchtask.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\bin\Debug\net6.0\1marchtask.pdb
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.AssemblyInfo.cs
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\refint\1marchtask.dll
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.pdb
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\1marchtask.genruntimeconfig.cache
+C:\Users\Acer\Desktop\arraystask\arrayc#\1marchtask\1marchtask\obj\Debug\net6.0\ref\1marchtask.dll
