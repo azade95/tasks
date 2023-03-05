@@ -6,17 +6,17 @@
         {
             bool flag = true;
             int i = 0;
-            Console.WriteLine("Please enter the size of the array");
-            int sizeArray = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter the size of the array");
+           // int sizeArray = Convert.ToInt32(Console.ReadLine());
             int[] numbers = new int[0];
             do
             {
                 Console.WriteLine("Enter element ");
                 int element = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine(element);
+                Array.Resize(ref numbers, numbers.Length + 1);
                 numbers[i] = element;
                 i++;
-                Array.Resize(ref numbers, numbers.Length + 1);
                 Console.WriteLine("Do you want to continue? ");
                 string answer = Console.ReadLine();
                 if (!(answer == "y" || answer == "Y"))
