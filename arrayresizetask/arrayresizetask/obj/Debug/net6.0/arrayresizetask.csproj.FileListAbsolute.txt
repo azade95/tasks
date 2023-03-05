@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\bin\Debug\net6.0\arrayresizetask.exe
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\bin\Debug\net6.0\arrayresizetask.deps.json
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\bin\Debug\net6.0\arrayresizetask.runtimeconfig.json
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\bin\Debug\net6.0\arrayresizetask.dll
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\bin\Debug\net6.0\arrayresizetask.pdb
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.AssemblyInfo.cs
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.dll
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\refint\arrayresizetask.dll
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.pdb
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\arrayresizetask.genruntimeconfig.cache
+C:\Users\Acer\Desktop\arraystask\arrayresizetask\arrayresizetask\obj\Debug\net6.0\ref\arrayresizetask.dll

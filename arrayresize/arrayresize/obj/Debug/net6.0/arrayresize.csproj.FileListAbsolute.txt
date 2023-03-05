@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\bin\Debug\net6.0\arrayresize.exe
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\bin\Debug\net6.0\arrayresize.deps.json
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\bin\Debug\net6.0\arrayresize.runtimeconfig.json
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\bin\Debug\net6.0\arrayresize.dll
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\bin\Debug\net6.0\arrayresize.pdb
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.AssemblyInfo.cs
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.dll
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\refint\arrayresize.dll
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.pdb
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\arrayresize.genruntimeconfig.cache
+C:\Users\Acer\Desktop\arraystask\arrayresize\arrayresize\obj\Debug\net6.0\ref\arrayresize.dll
