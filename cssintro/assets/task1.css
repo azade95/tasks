@@ -1,0 +1,35 @@
+.heading-1{
+    color: brown;
+}
+
+.heading-2{
+    background-color: rgb(241, 191, 199);
+}
+
+.paragraph-1{
+    color: green;
+}
+
+hr{
+    border-color: brown;
+}
+
+.paragraph-3{
+    border: 1px dashed;
+}
+
+.paragraph-4{
+    background-color: blue;
+}
+
+.paragraph-5{
+    font-size: 30px;
+}
+
+button{
+    color: white;
+    background-color: green ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}

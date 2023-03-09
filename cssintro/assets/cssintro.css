@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(110, 110, 110);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+hr{
+    border-color: rgb(90, 81, 81);
+}
+
+h3{
+    color: rgb(28, 88, 145);
+}
+h1{
+    color: rgb(28, 88, 145);
+
+}
+
+.paragraph-span{
+    color: rgb(251, 255, 0);
+}
+
+.list-span{
+    color: red;
+}
