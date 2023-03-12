@@ -1,0 +1,26 @@
+body{
+    height: 200vh;
+}
+
+
+label{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.checkbox-label{
+    margin: 0;
+}
+
+.payment-label{ 
+    margin: 0;
+}
+
+button{
+    width: 100%;
+    
+}
+
+.price{
+    font-size: x-large;
+}
