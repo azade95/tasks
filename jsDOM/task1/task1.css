@@ -1,0 +1,22 @@
+.row{
+    width: 1120px;
+    height: 360px;
+    justify-content: space-between;
+}
+
+h3{
+    width: 100%;
+}
+
+.card{
+    width: 18rem;
+}
+
+.card-link{
+    margin-left: 130px;
+}
+
+.card-img-top {
+    height: 180px;
+}
+

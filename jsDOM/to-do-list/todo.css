@@ -1,0 +1,9 @@
+body{
+    height: 100vh;
+}
+
+.to-do{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 4px;
+    padding: 20px 5px;
+}
